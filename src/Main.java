@@ -5,5 +5,7 @@ public class Main {
         MacBook mac = new MacBook("MacBook air,m1","space gray");
 
         System.out.println("вывод из класса макбук " + mac);
+
+        System.out.println("Ruslan");
     }
 }
